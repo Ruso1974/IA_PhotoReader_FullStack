@@ -40,14 +40,5 @@ npm install
 npm run dev
 ```
 
-## � Control de Versiones
-
-Este proyecto utiliza **Git** para control de versiones y está hospedado en **GitHub**.
-
-### Repositorio
-- **GitHub**: https://github.com/Ruso1974/IA_PhotoReader_FullStack
-- **Rama principal**: `main`
-- **Último commit**: Configuración inicial del proyecto
-
-## �👨‍💻 Autor
+## 👨‍💻 Autor
 **Pablo Bocchio**
